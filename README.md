@@ -1,2 +1,2 @@
 # Earth421
-Physical oceanography
+Physical Oceanography
